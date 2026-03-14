@@ -1,2 +1,2 @@
 # Hash
-sample
+Encrypted data fingerprint
